@@ -62,7 +62,7 @@ Ensure the `.env` file is correctly set up with your PostgreSQL credentials.
 Run the Python script to create the tables:
 
 ```bash
-python create_tables.py
+python postgresdb-setup.py
 ```
 
 ### Step 4: Verify Table Creation
